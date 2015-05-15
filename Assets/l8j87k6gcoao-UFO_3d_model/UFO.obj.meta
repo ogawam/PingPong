@@ -1,0 +1,97 @@
+fileFormatVersion: 2
+guid: 092b009a97c514eef9127066bea8dc27
+timeCreated: 1429801767
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: UFO
+    100004: UFO_Blue_light
+    100006: UFO_Tube
+    100008: UFO_Tube_down
+    100010: UFO_Tube_down_Cube
+    100012: UFO_White_light_on_top
+    400000: UFO
+    400002: //RootNode
+    400004: UFO_Blue_light
+    400006: UFO_Tube
+    400008: UFO_Tube_down
+    400010: UFO_Tube_down_Cube
+    400012: UFO_White_light_on_top
+    2300000: UFO
+    2300002: UFO_Blue_light
+    2300004: UFO_Tube
+    2300006: UFO_Tube_down
+    2300008: UFO_Tube_down_Cube
+    2300010: UFO_White_light_on_top
+    3300000: UFO
+    3300002: UFO_Blue_light
+    3300004: UFO_Tube
+    3300006: UFO_Tube_down
+    3300008: UFO_Tube_down_Cube
+    3300010: UFO_White_light_on_top
+    4300000: UFO
+    4300002: UFO_Blue_light
+    4300004: UFO_Tube
+    4300006: UFO_Tube_down
+    4300008: UFO_Tube_down_Cube
+    4300010: UFO_White_light_on_top
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
